@@ -1,0 +1,9 @@
+streamlit
+langchain
+transformers
+sentence-transformers
+torch
+
+#pip install -r requirements.txt
+#ollama run tinyllama
+#streamlit run app.py
